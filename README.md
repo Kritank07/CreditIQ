@@ -94,7 +94,7 @@ Machine Learning: Scikit-learn
 # How to Run
 Clone the repository
 ```bash
-   git clone https://github.com/your-username/CreditIQ.git
+   git clone https://github.com/Kritank07/CreditIQ.git
    cd CreditIQ
    ```
 Install dependencies
